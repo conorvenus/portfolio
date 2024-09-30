@@ -17,7 +17,7 @@
         </a>
         <ul class="flex gap-16 items-center">
             <li>
-                <a href="/projects" class="text-lg text-content/65 flex items-center gap-3 hover:text-content transition-colors duration-200">
+                <a href="/#projects" class="text-lg text-content/65 flex items-center gap-3 hover:text-content transition-colors duration-200">
                     <FolderCode class="w-5 h-5" />
                     Projects
                 </a>

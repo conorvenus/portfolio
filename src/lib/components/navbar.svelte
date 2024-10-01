@@ -17,7 +17,7 @@
     })
 </script>
 
-<header class="fixed max-w-7xl py-6 px-12 w-full left-[50%] -translate-x-[50%] z-10 navbar">
+<header class="fixed max-w-7xl py-6 px-8 md:px-12 w-full left-[50%] -translate-x-[50%] z-10 navbar">
     <div
     class="fixed inset-0 -z-10 size-full bg-[radial-gradient(#e5e7eb_1px,transparent_1px)] [background-size:16px_16px]"
     ></div>

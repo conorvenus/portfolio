@@ -13,6 +13,6 @@
 
 <Navbar />
 
-<main class="max-w-7xl mx-auto px-12 flex flex-col gap-16">
+<main class="max-w-7xl mx-auto px-8 md:px-12 flex flex-col gap-16">
   <slot />
 </main>

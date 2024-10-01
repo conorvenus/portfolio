@@ -2,8 +2,8 @@
     import Mail from 'lucide-svelte/icons/mail';
 </script>
 
-<section class="min-h-screen flex items-center w-full">
-    <div class="flex-col lg:flex-row flex max-w-screen-xl mx-auto lg:gap-8 xl:gap-0 lg:py-16 w-full">
+<section class="min-h-screen flex items-center w-full py-32">
+    <div class="flex-col lg:flex-row flex max-w-screen-xl mx-auto gap-8 lg:py-16 w-full">
         <div class="mr-auto place-self-center flex-1">
             <h1 class="hero-title max-w-2xl mb-4 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl">
                 Conor Venus

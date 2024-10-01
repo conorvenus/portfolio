@@ -1,7 +1,7 @@
-<section class="min-h-screen py-32" id="projects">
+<section class="min-h-screen py-32 snap-center" id="projects">
     <h2 class="text-3xl font-bold mb-8 text-content">Projects</h2>
 
-    <div class="grid grid-cols-3 gap-8">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         <div class="bg-white shadow-lg rounded-lg p-6">
             <h3 class="text-xl font-semibold mb-4">Project 1</h3>
             <p class="text-content/65 mb-4">
